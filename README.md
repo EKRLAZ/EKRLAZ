@@ -5,6 +5,20 @@ He sido desarrollador durante más de un año y medio.
 
 En 2018 logré titularme como ingeniero de sistemas, desde entonces me he enfocado y preparado en lo que más me atrae ... el desarrollo de aplicaciones Android, a lo largo de este tiempo he creado pequeños proyectos a nivel personal. Ahora después de la formación me siento seguro y con los conocimientos para poder resolver problemas en el mundo laboral.
 
+<strong>Mi última aplicación disponible en:<strong>
+
+<a href="https://play.google.com/store/apps/details?id=io.spooky.app" target="_blank">
+  <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="183">
+</a>
+
+<table>
+  <tr>
+    <td><img src="https://play-lh.googleusercontent.com/T_WinYv9_NVDhN0YlxyqdtLcfTkv9MsCbCCxjJZKZT3R-B_c3JTX8P08jtLwXIA9UccM=w720-h310-rw" width="143"></td>
+    <td><img src="https://play-lh.googleusercontent.com/W63qYmq-34sJSEch7WbAhqJS-DxvrqImnaFrQ5iOuArUcj7R--LrOxwSXQ0kna0PVyk=w720-h310-rw" width="143"></td>
+    <td><img src="https://play-lh.googleusercontent.com/fH1xjuXLov0Zu3xhBGJ8gZ455wV-xolwvlFP7wQ8TxRUwcCqausjqrqMPnfFTT-AjQ=w720-h310-rw" width="143"></td>
+  </tr>
+</table>
+
 
 ## Conocimientos:
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
@@ -24,6 +38,14 @@ En 2018 logré titularme como ingeniero de sistemas, desde entonces me he enfoca
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 </br>
+<strong>And more...</strong>
 
+## Encuéntrame en:
 
-And more...
+[![Twitter](https://img.shields.io/badge/Twitter-@ekrlaz-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/ekrlaz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Erick_Alvarez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/erick-rafael-alvarez-arrieta-707a5a1a2/)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-@ekrlaz-FE7A16?style=for-the-badge&logo=StackOverflow&logoColor=white&labelColor=101010)](https://stackoverflow.com/users/11933015/ekrlaz)
+
+## Contáctame:
+
+[![Email](https://img.shields.io/badge/erick.alvz.1.9.9.3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:erick.alvz.1.9.9.3@gmail.com)
