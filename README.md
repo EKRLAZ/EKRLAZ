@@ -11,15 +11,6 @@ En 2018 logré titularme como ingeniero de sistemas, desde entonces me he enfoca
   <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="183">
 </a>
 
-<table>
-  <tr>
-    <td><img src="https://play-lh.googleusercontent.com/T_WinYv9_NVDhN0YlxyqdtLcfTkv9MsCbCCxjJZKZT3R-B_c3JTX8P08jtLwXIA9UccM=w720-h310-rw" width="143"></td>
-    <td><img src="https://play-lh.googleusercontent.com/W63qYmq-34sJSEch7WbAhqJS-DxvrqImnaFrQ5iOuArUcj7R--LrOxwSXQ0kna0PVyk=w720-h310-rw" width="143"></td>
-    <td><img src="https://play-lh.googleusercontent.com/fH1xjuXLov0Zu3xhBGJ8gZ455wV-xolwvlFP7wQ8TxRUwcCqausjqrqMPnfFTT-AjQ=w720-h310-rw" width="143"></td>
-  </tr>
-</table>
-
-
 ## Conocimientos:
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
