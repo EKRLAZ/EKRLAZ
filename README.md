@@ -1,4 +1,4 @@
-### Android developper
+### Android developer
 
 
 He sido desarrollador durante más de un año y medio.
